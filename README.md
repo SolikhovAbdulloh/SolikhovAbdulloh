@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolikhovAbdulloh
-- 👀 I’m interested in Fronted and football
+- 👀 I’m interested in Frontend and football
 - 🌱 I’m currently learning Fronted 
 - 💞️ I’m looking to collaborate on with large companies
 - 📫 How to reach me ...
