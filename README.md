@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Frontend Development** and **Football**
 - 🌱 I’m currently learning **React** and **TypeScript**
 - 💞️ I’m looking to collaborate with talented individuals
-- 📫 How to reach me: [Email me](mailto:abdullasolikh@gmail.com)
+- 📫 How to reach me: abdullasolikh@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I play football and code late at night!**
 
