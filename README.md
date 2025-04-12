@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SolikhovAbdulloh
+# 👋 Hi, I’m SolikhovAbdulloh
 
 ## About Me
 - 👀 I’m interested in **Frontend Development** and **Football**
