@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in **Frontend Development** and **Football**
-- 🌱 I’m currently learning **React** and **TypeScript**
+- 🌱 I use in **React** and **TypeScript**
 - 💞️ I’m looking to collaborate with talented individuals
 - 📫 How to reach me: abdullasolikh@gmail.com
 - 😄 Pronouns: **He/Him**
